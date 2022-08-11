@@ -39,7 +39,7 @@ If we don't accept your commission, this data is deleted shortly after notificat
 ## What data do third-parties have access to?
 When you apply for a position at Inkjar or submit a commission request, you submit the data through Google Forms. Google, in theory, has access to all the data submitted through this form and stores the data on servers in the United States.
 
-When you receive or send emails to Inkjar employees, emails are handled via Migadu, our email service provider. Migaudu, in theory, has access to all the data submitted through emails and stores the data on servers in France.
+When you receive or send emails to Inkjar employees, emails are handled via Migadu, our email service provider. Migadu, in theory, has access to all the data submitted through emails and stores the data on servers in France.
 
 ## Who has access to stored data?
 The data is processed and stored by the following parties:
