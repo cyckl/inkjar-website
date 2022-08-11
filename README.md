@@ -6,5 +6,3 @@
 
 ## Acknowledgements
 All code in this repository is licensed under the 3-Clause BSD License, which you can read in the `LICENSE` file. Assets are not under a free license, with all rights reserved by Inkjar.
-
-Crossed out assets aren't ready yet.
