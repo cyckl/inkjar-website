@@ -1,10 +1,6 @@
-{% extends "base.html" %}
+{% extends "base/base.html" %}
 
-{%block title%}{{ page.title }} &mdash; Inkjar{%endblock title%}
+{% block title %}{{ page.title }} &mdash; Inkjar{% endblock title %}
+{% block header %}<h1>{{page.title}}</h1>{% endblock header %}
 
-{% block content %}
-<header>
-    <h1 class="title">{{ page.title }}</h1>
-</header>
-<div class="readable">{{ page.content | safe }}</div>
-{% endblock content %}
+{% block content %}{{ page.content | safe }}{% endblock content %}

@@ -1,5 +1,5 @@
 +++
-title = "Request a Commission"
+title = "Request a commission"
 +++
 
 ## Before requesting a commission...

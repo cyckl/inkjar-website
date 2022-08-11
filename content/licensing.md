@@ -1,5 +1,5 @@
 +++
-title = "How We License Our Works"
+title = "Licensing"
 +++
 
 At Inkjar, we're proud of our works. We work our blood, sweat, and tears into every commission, project, and every thing big and small in-between. Because of such, we have special guidelines for how our works can be used. Questions about these guidelines can be sent to [the respective branch managers.](/contact)
